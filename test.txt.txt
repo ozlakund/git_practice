@@ -2,4 +2,6 @@ Hello
 One
 Two
 Edited third time
+Added a very important change
+Added a cool feature
 Hey, we fixed the bug!!
